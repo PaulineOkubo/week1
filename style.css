@@ -1,0 +1,64 @@
+*
+{
+	padding: 0px; 
+  	margin: 5px;
+  	/*box-sizing: border-box;*/
+}
+
+body
+{
+		background-size: 15;
+	    word-spacing: 1.5;
+		background-position: center;
+		font-family: cursive;
+		
+		background:skyblue;
+
+}
+.menu-bar
+{
+	background: rgb(05,15,250);
+	text-align: center;
+	height: 100px;
+    letter-spacing: 5px;
+	
+}
+.menu-bar ul
+{
+
+	list-style: unordered;
+	color: black;
+}
+.menu-bar ul li
+{
+	display: inline-flex;
+	padding-left: 100px;
+	margin:2s5px;
+	width: 80%px;
+	font-size: 150%;
+}
+.menu-bar ul li a
+{
+	text-decoration: algerian;
+	color: white; backgroundcolor:grey;
+
+}
+
+
+.foote
+{
+	padding: 50px 0 20px;
+	position:absolute;top:70%
+}
+a{
+	color: black;
+	text-decoration: calibri;
+	margin: auto 20px auto 20px;
+}
+ a:hover{
+	color: purple; background:red;
+}
+.copyright{
+	font-size: 1.0rem;
+	margin-bottom: 0;
+}
